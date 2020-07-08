@@ -1,6 +1,6 @@
-=== test_woocomerce_addon ===
-Contributors: matt, wordpressdotorg
-Stable tag: 1.1
+=== Test_plugin===
+Contributors: demo
+Stable tag: 1.3
 Tested up to: 5.2
 Requires at least: 4.6
 

@@ -1,0 +1,14 @@
+{
+    "exclude": [
+        "README.md",
+        "appsero.json",
+        "composer.json",
+        "composer.lock",
+        ".gitignore",
+        "assets/src"
+    ]
+}
+
+{
+    "test-woocomerce-addon": "push-to-deploy"
+}
